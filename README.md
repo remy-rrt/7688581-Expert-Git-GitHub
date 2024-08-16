@@ -1,4 +1,4 @@
-# Open Transport
+# Open Transport v0.0.2
 
 Application web pour covoiturage. 
 
